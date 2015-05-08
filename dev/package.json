@@ -1,0 +1,26 @@
+{
+  "name": "vz-beauty",
+  "version": "1.0.0",
+  "description": "HTML/CSS/JS template for beuaty websites",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:driera/vz-beauty.git"
+  },
+  "author": "Dani Riera",
+  "license": "GPL v2",
+  "bugs": {
+    "url": "https://github.com/driera/vz-beauty/issues"
+  },
+  "homepage": "https://github.com/driera/vz-beauty",
+  "devDependencies": {
+    "autoprefixer-core": "^5.1.11",
+    "browser-sync": "^2.7.1",
+    "gulp": "^3.8.11",
+    "gulp-sass": "^2.0.0",
+    "gulp-sourcemaps": "^1.5.2"
+  }
+}
